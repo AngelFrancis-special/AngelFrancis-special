@@ -51,6 +51,5 @@ Embedded Systems • Firmware Architecture • IoT • Real-Time Systems • Pow
 
 ## Connect
 
-LinkedIn: [www.linkedin.com/in/francis-omee](http://www.linkedin.com/in/francis-omee)
-
-YouTube: youtube.com/@francisnzekwe6781
+- [LinkedIn](https://www.linkedin.com/in/francis-omee)
+- [YouTube](https://www.youtube.com/@francisnzekwe6781)
